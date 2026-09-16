@@ -6,6 +6,7 @@ We publish technical evidence, release notes, demonstrations, and focused open-s
 
 ## Public work
 
+- [Free public resources](https://github.com/mthburnsbarber-web/mthburnsbarber-web/blob/main/FREE.md) — public tools, checklists, templates, and prompt packs.
 - [Discoverability Evidence Kit](https://github.com/mthburnsbarber-web/blacklabel-discoverability-evidence-kit) — validates public entity facts, evidence claims, and repeatable AI-search prompt panels.
 - [Brand Leak Guard](https://github.com/mthburnsbarber-web/brand-leak-guard) — a fail-closed brand-isolation gate for multi-client and white-label infrastructure.
 - [CDHash Verify](https://github.com/mthburnsbarber-web/cdhash-verify) — proves that a running macOS application is the artifact that was built.
