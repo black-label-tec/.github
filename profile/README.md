@@ -12,6 +12,10 @@ We publish technical evidence, release notes, demonstrations, and focused open-s
 - [CDHash Verify](https://github.com/mthburnsbarber-web/cdhash-verify) — proves that a running macOS application is the artifact that was built.
 - [DKIM Doctor](https://github.com/mthburnsbarber-web/dkim-doctor) — a focused SPF, DKIM, and DMARC health check.
 
+## Ace
+
+[Ace](https://ace-bl.tech/) is Black Label's AI study companion for Mac. See the product site for current features, pricing, and availability.
+
 ## Follow the work
 
 - [Explore the Black Label Tech portfolio](https://blacklabeltec.com)
