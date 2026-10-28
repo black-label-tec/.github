@@ -4,6 +4,17 @@ Black Label Tech builds native software, automation, media, audio, and data prod
 
 We publish technical evidence, release notes, demonstrations, and focused open-source utilities from the work behind the portfolio.
 
+## Find something useful
+
+| Your task | Start here |
+| --- | --- |
+| Practice a study topic with AI | [Free study guides and prompts](https://github.com/mthburnsbarber-web/ai-study-prompts) |
+| Keep and search coding-agent conversations | [agent-history](https://github.com/mthburnsbarber-web/agent-history) |
+| Verify which Mac app artifact is running | [cdhash-verify](https://github.com/mthburnsbarber-web/cdhash-verify) |
+| Explore the products | [Watch demonstrations](https://www.youtube.com/@blacklabeltec) · [Try Ace](https://tryacee.com/?utm_source=github&utm_medium=org-profile&utm_campaign=visibility) |
+
+The public utilities are maintained in [Michael Barber's repositories](https://github.com/mthburnsbarber-web). Their READMEs contain setup instructions and limitations.
+
 ## Public work
 
 - [Free public resources](https://github.com/mthburnsbarber-web/mthburnsbarber-web/blob/main/FREE.md) — public tools, checklists, templates, and prompt packs.
@@ -14,7 +25,7 @@ We publish technical evidence, release notes, demonstrations, and focused open-s
 
 ## Ace
 
-[Ace](https://ace-bl.tech/) is Black Label's AI study companion for Mac. See the product site for current features, pricing, and availability.
+[Ace](https://tryacee.com/) is Black Label's AI study companion for Mac. See the product site for current features, pricing, and availability.
 
 ## Follow the work
 
