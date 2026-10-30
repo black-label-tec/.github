@@ -9,6 +9,8 @@ We publish technical evidence, release notes, demonstrations, and focused open-s
 | Your task | Start here |
 | --- | --- |
 | Practice a study topic with AI | [Start one complete study session](https://github.com/mthburnsbarber-web/ai-study-prompts/blob/main/guides/first-session.md) · [Browse the free guides](https://github.com/mthburnsbarber-web/ai-study-prompts) |
+| See Ace in use | [Watch the notes and flashcard review](https://github.com/mthburnsbarber-web/ai-study-prompts/blob/main/guides/ace-notes-review.md) |
+| Research startup programs and launch channels | [Browse the public resource directory](https://github.com/mthburnsbarber-web/startup-business-resources) |
 | Keep and search coding-agent conversations | [agent-history](https://github.com/mthburnsbarber-web/agent-history) |
 | Verify which Mac app artifact is running | [cdhash-verify](https://github.com/mthburnsbarber-web/cdhash-verify) |
 | Explore the products | [Watch demonstrations](https://www.youtube.com/@blacklabeltec) · [Try Ace](https://tryacee.com/?utm_source=github&utm_medium=org-profile&utm_campaign=visibility) |
